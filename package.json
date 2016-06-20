@@ -1,6 +1,6 @@
 {
   "name": "cyclejs-animated-localstorage",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A Cycle.js driver for animating (srsly) localStorage.",
   "main": "./dist/index.js",
   "scripts": {
