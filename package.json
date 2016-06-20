@@ -4,7 +4,7 @@
   "description": "A Cycle.js driver for animating (srsly) localStorage.",
   "main": "./dist/index.js",
   "scripts": {
-    "build": "babel ./src/index.js --out-file ./dist/index.js",
+    "build": "babel ./src --out-dir ./dist",
     "prepublish": "npm run build"
   },
   "repository": {
