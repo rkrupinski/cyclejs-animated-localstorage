@@ -15,6 +15,7 @@
   "keywords": [
     "cyclejs",
     "cycle",
+    "driver",
     "localstorage",
     "text",
     "animation"
@@ -33,5 +34,8 @@
     "eslint": "^2.13.1",
     "eslint-config-airbnb": "^9.0.1",
     "eslint-plugin-import": "^1.8.1"
+  },
+  "dependencies": {
+    "rx": "^4.1.0"
   }
 }
